@@ -45,13 +45,13 @@ O Herói de nome João está no nível de Prata
 Clone o repositório:
 
 ``` bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/ShayMomoto/Desafio-Logica-de-Programa-o
 ```
 
 Acesse a pasta do projeto:
 
 ``` bash
-cd seu-repositorio
+cd Desafio-Logica-de-Programa-o
 ```
 
 Instale as dependências:
@@ -88,7 +88,8 @@ Este projeto tem como objetivo praticar:
 
 Projeto baseado em desafio proposto pela plataforma:
 
-> Digital Innovation One (DIO)
+> DIO
+> Professor Felipão
 
 ------------------------------------------------------------------------
 
