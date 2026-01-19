@@ -1,7 +1,7 @@
 # 🦸‍♂️ Classificador de Nível de Herói
 
 Projeto desenvolvido como exercício de **Lógica de Programação em
-JavaScript** no curso da **Digital Innovation One (DIO)**.
+JavaScript** no curso da **DIO**.
 
 O programa recebe o nome de um herói e sua quantidade de experiência
 (XP) e classifica automaticamente seu nível.
